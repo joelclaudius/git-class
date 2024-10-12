@@ -1,1 +1,1 @@
-This is one loan project. Yes
+This is one loan project. 
